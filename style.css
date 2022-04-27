@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@700&display=swap');
+
+.card{
+ width: 30rem;
+ background-color: #b4a5a5;
+ color: #353535;
+ padding: 1.5rem;
+ border-radius: .4rem;
+
+}
+
+.card_image{
+ width: 100%;
+ height: 20rem;
+ object-fit: cover;
+ border-radius: .4rem;
+
+  }
+
+  .card_information_title{
+    font-size: 3rem;
+
+  }
+
+.card_information-description{
+  font-size: 1.4rem;
+}
+
+p{
+  font-family:'Sarala', sans-serif;
+
+}
+
+h2{
+  font-family: 'Righteous', cursive;
+}
